@@ -1,0 +1,19 @@
+1.
+a)In Browser JS we are interacting with the DOM (Document Object Module),whereass in nodejs we are not.
+b)In browser JS we utilize cookies,but in node js we directly interact with the data(server-side).
+c)In the browser, JavaScript won't have access to several clean APIs/modules that node has. 
+d)Once JS is updated the new JS will be readily available in node js and we can choose the js version we want to work in, but in case of browserjs, js updation takes a lot of time as the browser update release takes a lot of time.
+e) Node.js allows you to control the environment itself whereas in the  browser, the environment is based on the browser version.
+
+4.
+number
+number
+string
+boolean
+object
+undefined
+object
+object
+number
+5.
+Prototype property is basically an object (also known as Prototype object), where we can attach methods and properties in a prototype object, which enables all the other objects to inherit these methods and properties.
